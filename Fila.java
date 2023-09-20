@@ -1,5 +1,5 @@
 public class Fila { 
-    private static Fila Instancia = null; 
+    private static Fila Instancia =  null; 
     
     private Fila(){} 
 
